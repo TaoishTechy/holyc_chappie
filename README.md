@@ -1,9 +1,14 @@
 # Chappie HolyC — CM-QSR — cm-patch-006
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/2206c033-c44a-4ca6-9803-d758e214a4f5" />
+
+
 > **ShrineOS 4 MB minimal TOS, DOS-level size, resolution/color restrictions perfect for fresh AGI cores, later higher quality sensory — natural progression.**
 > **TempleOS-inspired, Terry Davis level auditing, SIM-only, no QPU.**
 
 ## What this is
+
+.MD Format Snapshot for Easy LLM Improting/Analysis: [HolyC Chappie v6 SNapshot](https://github.com/TaoishTechy/holyc_chappie/blob/main/snapshots/holyc_chappie_v6_SNAPSHOT_directory_consolidated.md)
 
 `TaoishTech/holyc_chappie` is a HolyC quantum simulator core for Spider Chappie AGI.
 
